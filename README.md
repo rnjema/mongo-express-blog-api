@@ -1,4 +1,7 @@
-# blog-api
+# Simple Blog API
+> Inspired by (How To Build a Web API using Express.js, Bun and MongoDB?)[https://blog.bitsrc.io/building-an-api-using-express-js-mongodb-bun-cbac231d1cd3]
+
+## Project Setup
 
 To install dependencies:
 
